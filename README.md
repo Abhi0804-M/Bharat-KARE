@@ -1,4 +1,4 @@
-# AI4Bharat Input Tool UI
+# BHARAT-KARE
 
 ## Indic-Typing Web Interface
 
@@ -8,11 +8,11 @@ For the backend server code, check our [python library](https://pypi.org/project
 
 ## Developing
 
-- Clone the repo first by `git clone --recurse-submodules https://github.com/AI4Bharat/Indic-Input-Tool-UI`
+- Clone the repo first by `git clone --recurse-submodules https://github.com/Abhi0804-M/Bharat`
 - To run local HTTP server: `python -m http.server`
 
 ## Screenshot
-<img width="1822" alt="Screenshot 2023-12-02 at 10 48 56 AM" src="https://github.com/AI4Bharat/Indic-Input-Tool-UI/assets/88619994/08ab0a56-3e88-4f4a-b9a6-e5f36738e56b">
+<img width="1822" alt="Screenshot 2024-15-01 at 10 48 56 PM" src="https://github.com/Abhi0804-M/Bharat/assets/88619994/08ab0a56-3e88-4f4a-b9a6-e5f36738e56b">
 
 ## Credits
 
